@@ -1,9 +1,9 @@
 import pygame
 
-from board_manager import BoardManager
-from game_logic import GameLogic
-from input_handler import InputHandler
-from ui import UI
+from old.board_manager import BoardManager
+from old.game_logic import GameLogic
+from old.input_handler import InputHandler
+from old.ui import UI
 
 
 pygame.init()

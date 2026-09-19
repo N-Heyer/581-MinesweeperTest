@@ -1,9 +1,9 @@
 import random
 
-from board_manager import COVERED
-from board_manager import FLAGGED
-from board_manager import UNCOVERED
-from board_manager import MINE
+from old.board_manager import COVERED
+from old.board_manager import FLAGGED
+from old.board_manager import UNCOVERED
+from old.board_manager import MINE
 
 
 class GameLogic:
